@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+.header{
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -134,7 +134,7 @@ main {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.search-engine-optimization{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
