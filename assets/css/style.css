@@ -134,7 +134,7 @@ main {
     max-width: 150px;
 }
 
-.search-engine-optimization{
+.search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -188,13 +188,13 @@ main {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
